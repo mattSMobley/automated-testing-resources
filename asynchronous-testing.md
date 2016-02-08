@@ -18,7 +18,7 @@ Create an object that provides a Logging service. It has methods that write to a
 
 ## Problem 2
 
-In this repository there is a folder named `database-test`. This project contains a basic skeleton on testing a database using mocha. To set up the project, run the following commands:
+In this repository there is a folder named `database-test`. This folder contains a basic skeleton to test a database using mocha. To set up the project, run the following commands:
 
 ```
 npm init
@@ -27,5 +27,19 @@ createdb database-test
 ```
 
 To run the test: `npm test`
+
+In the `user-database.js` add the following functions to the object:
+
+- Get all users from database,
+- Get one user with a given id,
+- Update 1 user with a given id, and updated values,
+- Delete 1 user with a given id.
+
+
+
+ 
+
+
+
 
 
