@@ -55,35 +55,18 @@ A couple of last points to emphasize:
 
 ---
 
-## Lessons
+## Exercises
 
 [Synchronous Testing](synchronous-testing.md)
 
 [Asynchronous Testing](asynchronous-testing.md)
 
-[Hooks]
+<!-- [Hooks] -->
 
-[Thrown Error Testing](thrown-error-testing.md)
+<!-- [Thrown Error Testing](thrown-error-testing.md) -->
 
-[Promise Testing](promise-testing.md)
+<!-- [Promise Testing](promise-testing.md) -->
 
-[API with Super Test]
-
-
-
----
-
-
-
-Exercise ideas:
-
-- math libraries
-- database tests
-- api tests
-- rendered pages
-- database crud (api)
-- express validation tests. #for later
-
-
+<!-- [API with Super Test] -->
 
 

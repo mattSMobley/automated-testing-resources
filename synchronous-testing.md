@@ -38,7 +38,7 @@ Create an object that provides the following basic mathematical methods.
 - Addition,
 - Substraction,
 - Multiplication,
-- Division,
+- Division, (if it's divison by zero, return null),
 - Power,
 - Square root
 
@@ -46,12 +46,13 @@ Follow the red/green/refactor pattern when coding the tests.
 
 ## Exercise 2 - Tax Calculator
 
-Create at object that provides the tax calculations given:
+Create at object that provides the tax calculations for a positive amount:
 
 - The first $10 is taxed at 10%
 - The second $10 is taxed at 7%
 - The third $10 is taxed at 5%
 - Everything after that is taxed at 3%
+- If the value passed to calculate taxes on is negative, return null.
 
 Follow the red/green/refactor pattern when coding the tests.
 
@@ -73,11 +74,14 @@ Follow the red/green/refactor pattern when coding the tests and object methods
 
 ## Exercise 4 - Number Validation
 
-Create an object that can do number validation with the following feature
+Create an object that can do number validation with the following features:
 
 - Can set/get minimum valid number
 - Can set/get maximum valid number
 - Can set/get an array of invalid numbers
 - Can set/get an array of valid numbers
-- When
+- It should use only one validation strategy at a time. If one strategy is set after another, apply only the latest.
+
+Follow the red/green/refactor patter when coding the test and object methods.
+
 
