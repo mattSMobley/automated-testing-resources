@@ -61,9 +61,10 @@ A couple of last points to emphasize:
 
 [Asynchronous Testing](asynchronous-testing.md)
 
-<!-- [Hooks] -->
+[Testing with Hooks](hooks-testing.md)
 
-<!-- [Thrown Error Testing](thrown-error-testing.md) -->
+[Thrown Error Testing](thrown-error-testing.md)
+
 
 <!-- [Promise Testing](promise-testing.md) -->
 
