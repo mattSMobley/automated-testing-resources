@@ -1,5 +1,7 @@
 # Testing with thrown errors
 
+For all these exercises copy your existing code to a new folder named `thrown-error-test`. Then update your code with the given instructions.
+
 ## Exercise 1
 
 Update [Problem 1 from the synchronous testing exercises](synchronous-testing.md) to throw/catch errors if the is a division by zero

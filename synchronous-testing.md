@@ -31,6 +31,11 @@ For each of the following exercises, you'll need two files. One where the functi
 
 The file with the functionality should be named after the exercise. But the test file, should be located in the test folder, and be named in the following pattern `exercise1.test.js`.
 
+## Example
+
+In the folder `hello-world-test` there is a running implementation of a test using mocha. The test are run by using the command `npm test`.
+
+
 ## Exercise 1 - Math Libary
 
 Create an object that provides the following basic mathematical methods.
